@@ -1,0 +1,36 @@
+.totalBox{
+    max-width: 500px;
+    display: grid;
+    gap: 80px;
+    justify-items: center;
+}
+
+.boxTitle{
+    font-size:xx-large;
+    font-family: 'Kenarose', sans-serif;
+}
+
+.boxPhrase {
+    background-color: rgba(252, 252, 241, 0.664);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 20px 10px 0px 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.boxBtn {
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.boxAuthor{
+    position: absolute;
+    bottom: 15px;
+    left: 50%;
+    transform: translate(-50%);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+

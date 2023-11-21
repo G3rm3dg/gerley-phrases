@@ -1,0 +1,39 @@
+.totalScreen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    padding: 20px;
+    color:rgb(255, 255, 255);
+    background-size: cover;                                                
+}
+
+.bg1{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.384), rgba(0, 0, 0, 0.308)), url(/images/pictureOne.webp);
+}
+
+.bg2{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.384), rgba(0, 0, 0, 0.308)), url(/images/pictureTwo.webp);
+    
+}
+
+.bg3{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.384), rgba(0, 0, 0, 0.308)), url(/images/pictureThree.webp);
+    
+}
+
+.bg4{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.384), rgba(0, 0, 0, 0.308)), url(/images/pictureFour.webp);
+    
+}
+
+.bg5{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.384), rgba(0, 0, 0, 0.308)), url(/images/pictureFive.webp);
+    
+}
+
+.bg6{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.384), rgba(0, 0, 0, 0.308)), url(/images/pictureSix.webp);
+    
+}
